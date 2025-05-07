@@ -1,4 +1,4 @@
-package data
+package nmapdata
 
 import (
 	"encoding/xml"
